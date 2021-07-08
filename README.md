@@ -1,2 +1,2 @@
 # ModifyRecipe
-Recetas
+Es importante cambiar el directorio de la carga de imagenes
